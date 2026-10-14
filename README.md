@@ -89,7 +89,7 @@ Possible improvements for future versions include:
 
 **Developed as part of my Java Programming Internship at Decode Labs.**
 
-
+---
 
 
 
@@ -144,3 +144,7 @@ Try the program using the online Java compiler:
 - Performing arithmetic calculations.
 - Applying `if-else` statements to assign grades.
 - Displaying formatted output.
+
+**Developed as part of my Java Programming Internship at Decode Labs.**
+
+---
