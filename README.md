@@ -136,7 +136,7 @@ This project demonstrates basic Java programming concepts such as variables, loo
 ### 🔗 Live Demo
 Try the program using the online Java compiler:
 
-[**Run Student Grade Calculator – OnlineGDB**](https://www.onlinegdb.com/online_java_compiler#)
+[**Run Student Grade Calculator – OnlineGDB**]([https://www.onlinegdb.com/online_java_compiler#](https://onlinegdb.com/lTGxT7zrf))
 
 ### 📚 Learning Outcomes
 - Understanding Java variables and data types.
