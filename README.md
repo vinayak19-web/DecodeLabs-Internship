@@ -88,3 +88,59 @@ Possible improvements for future versions include:
 ---
 
 **Developed as part of my Java Programming Internship at Decode Labs.**
+
+
+
+
+
+# Task - 2 - Vinayak Dutta
+
+## Student Grade Calculator (Java)
+
+### 📌 Project Description
+The Student Grade Calculator is a simple Java application that calculates a student's total marks, average percentage, and grade based on marks obtained in multiple subjects.
+
+This project demonstrates basic Java programming concepts such as variables, loops, arithmetic operations, conditional statements, and user input.
+
+### 🎯 Features
+- Accepts marks for multiple subjects (out of 100).
+- Calculates the total marks obtained.
+- Calculates the average percentage.
+- Assigns a grade based on the percentage.
+- Displays the final result clearly.
+
+### 🛠️ Technologies Used
+- **Programming Language:** Java
+- **Input Handling:** Scanner Class
+- **Concepts:** Variables, Loops, Arithmetic Operations, Conditional Statements
+
+### 📊 Grading Criteria
+
+| Percentage | Grade |
+|---|---|
+| 90–100% | A |
+| 80–89% | B |
+| 70–79% | C |
+| 60–69% | D |
+| 40–59% | E |
+| Below 40% | F |
+
+### ▶️ How to Run
+1. Open an online Java compiler.
+2. Copy and paste the Java source code.
+3. Click the **Run** button.
+4. Enter the number of subjects.
+5. Enter the marks for each subject.
+6. View the total marks, average percentage, and grade.
+
+### 🔗 Live Demo
+Try the program using the online Java compiler:
+
+[**Run Student Grade Calculator – OnlineGDB**](https://www.onlinegdb.com/online_java_compiler#)
+
+### 📚 Learning Outcomes
+- Understanding Java variables and data types.
+- Using loops to process multiple subject marks.
+- Performing arithmetic calculations.
+- Applying `if-else` statements to assign grades.
+- Displaying formatted output.
